@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Conexo",
+  "Type": "App",
+  "Id": "MNzhfeyi60yX3DGlYyn93g",
+  "Reference": "6Kn06OEUGUamyPPIqPxffQ/MNzhfeyi60yX3DGlYyn93g",
+  "Created": "2026-02-12T01:36:30.0106565Z",
+  "Updated": "2026-02-12T01:36:30.0106565Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

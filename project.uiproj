@@ -1,0 +1,6 @@
+{
+  "Name": "Conexo",
+  "ProjectType": "Process",
+  "Description": "Conexo",
+  "MainFile": "Main.xaml"
+}
